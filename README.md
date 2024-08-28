@@ -1,6 +1,6 @@
 # PortFolio
 
-MlModel for Flu_shot prediction: https://github.com/alrSasani/Flu_Shot_Prediction
+MlModel for Flu_shot prediction: https://github.com/alrSasani/End_to_End_Flushot
 
 Exploratory data analysis of stack overflow survey: https://github.com/alrSasani/Stack_Overflow_DS
 
